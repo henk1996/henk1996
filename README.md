@@ -8,7 +8,7 @@ I'm currently on a 6-month mission to master backend engineering with a focus on
 
 🧠 My Learning Roadmap (6-Month Sprint)
 
-🎯 Goal: Become job-ready with REST API mastery, authentication, CI/CD, Docker, and system design skills.
+🎯 Goal: Become ready with REST API mastery, authentication, CI/CD, Docker, and system design skills.
 
 | Month | Focus Area              | Project                         |
 | ----- | ----------------------- | ------------------------------- |
