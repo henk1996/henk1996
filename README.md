@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Henock Mengistu
+# 👋 Hi, I'm Henock Mengistu Abomsa
 
 🚀 Aircraft Engineer | Backend Developer | DevOps Enthusiast | Systems Thinker 
 
